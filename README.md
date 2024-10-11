@@ -31,10 +31,12 @@ npm run dev
 
 ## Images
 
+![landing](/publicmedia/landing.png)
 ![home](/publicmedia/home.png)
-![queue](/publicmedia/queue.png)
-![queue2](/publicmedia/queue2.png)
-![search](/publicmedia/search.png)
+![homesidebar](/publicmedia/homesidebar.png)
+![spotifyqueue](/publicmedia/spotifyqueue.png)
+![fullqueue](/publicmedia/fullqueue.png)
+![searchtrack](/publicmedia/searchtrack.png)
 ![searchalbum](/publicmedia/searchalbum.png)
 ![settings](/publicmedia/settings.png)
 
