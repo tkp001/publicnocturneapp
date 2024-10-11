@@ -1,4 +1,4 @@
-# nocturnemusic
+# Nocturne Music App
 ### website: https://nocturnemusic.vercel.app/
 ### made using react + vite, tailwindcss and additional libraries
 ### A music player for personal use
