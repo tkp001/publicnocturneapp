@@ -1,11 +1,12 @@
 # nocturnemusic
+### website: https://nocturnemusic.vercel.app/
 ### made using react + vite, tailwindcss and additional libraries
 ### A music player for personal use
 ### includes a database to save song information
 ### requires credentials
 
 ## Requirements:
-Node.js - npm
+Node.js - npm (local hosting only)
 
 Youtube Data API v3 and Spotify Web API client id and secret which are all avaliable for free:
 
@@ -18,7 +19,7 @@ https://console.cloud.google.com/ (limitation to discover 100 new songs per day)
 
 
 
-## Instructions (Visual Studio terminal)
+## Instructions For Local Hosting (Visual Studio terminal)
 
 ```
 cd musicapp
