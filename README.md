@@ -41,7 +41,7 @@ npm run dev
 ![searchalbum](/publicmedia/searchalbum.png)
 ![settings](/publicmedia/settings.png)
 
-## Basis code
+## Early code
 https://replit.com/@TanushPandya2/ytmusicplayer
 
 https://replit.com/@TanushPandya2/ytdataapiv3-USING-fetch
