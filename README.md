@@ -2,8 +2,14 @@
 ### website: https://nocturnemusic.vercel.app/
 ### made using react + vite, tailwindcss and additional libraries
 ### A music player for personal use
-### includes a database to save song information
+### includes a mock database to save song information
 ### requires credentials
+
+## Description:
+I made this project entirely because I hated spotify ads interrupting my experience..
+I integrated the YouTube and Spotify API to allow searching and playing of song titles, this is completely legal as I have read through the TOS and Policies.
+This project is not commercially viable due to API limitations and pontential API depreciation.
+Future expansion includes accounts (saving features) and AI to enhance the experience.
 
 ## Requirements:
 Node.js - npm (local hosting only)
