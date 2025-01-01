@@ -6,6 +6,9 @@
 ### requires credentials
 
 ## Description:
+>[!NOTE]
+>Home page is not functional due to API method depreciated
+
 I made this project entirely because I hated spotify ads interrupting my experience..
 I integrated the YouTube and Spotify API to allow searching and playing of song titles, this is completely legal as I have read through the TOS and Policies.
 This project is not commercially viable due to API limitations and pontential API depreciation.
