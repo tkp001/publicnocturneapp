@@ -7,7 +7,7 @@
 
 ## Description:
 >[!NOTE]
->Home page is not functional due to API method depreciated
+>Home page is not functional due to API method depricated
 
 I made this project entirely because I hated spotify ads interrupting my experience..
 I integrated the YouTube and Spotify API to allow searching and playing of song titles, this is completely legal as I have read through the TOS and Policies.
